@@ -1,2 +1,2 @@
-# ALX Backend Specialisation projects
+# ALX Backend projects
 
